@@ -1,0 +1,4 @@
+- “What is a MCP anyway?”
+- “Code review tools: a quick overview” 
+- “it’s all a file: configuring Claude Code” 
+- "it's yet another markdown file: configuring opencode"
