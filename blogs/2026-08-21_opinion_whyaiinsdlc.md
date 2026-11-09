@@ -63,4 +63,4 @@ Cassandra: So your grand vision is that fey folk use AI to... complete their doc
 
 Percy: Well, yes...
 
-Cassandra: Elves writing documentation? Now that’s fantasy.
+Cassandra: Elves writing documentation? Now *that’s* fantasy.
